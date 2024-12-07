@@ -1,0 +1,2 @@
+TOKEN = '7701010534:AAHhPu72goUnI7kuDZzht8tvvjuegeUAmQ0'
+AI_TOKEN = 'r7LWmytdk2dZj9BLBFqnbYt7n2dNqgRp'
